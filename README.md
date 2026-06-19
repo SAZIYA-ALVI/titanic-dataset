@@ -42,9 +42,8 @@ Loaded the Titanic dataset using Pandas.
 
 Used:
 
-```python
+python
 df.isnull().sum()
-```
 
 to identify missing values in each column.
 
@@ -58,9 +57,8 @@ to identify missing values in each column.
 
 Used:
 
-```python
+python
 df.drop_duplicates(inplace=True)
-```
 
 to remove duplicate rows.
 
@@ -68,17 +66,17 @@ to remove duplicate rows.
 
 Checked data types using:
 
-```python
+python
 df.info()
-```
+
 
 ### 6. Save Cleaned Dataset
 
 Saved the cleaned dataset as:
 
-```python
+python
 clean_titanic.csv
-```
+
 
 ## Tools and Libraries
 
@@ -99,8 +97,6 @@ clean_titanic.csv
 * train.csv
 * clean_titanic.csv
 * README.md
-
-## Author
 
 Saziya
 Aspiring Data Scientist
