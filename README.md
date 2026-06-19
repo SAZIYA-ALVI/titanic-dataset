@@ -91,12 +91,3 @@ clean_titanic.csv
 * Duplicate records removed.
 * Dataset cleaned and prepared for further analysis.
 
-## Files Included
-
-* Titanic_Data_Cleaning.ipynb
-* train.csv
-* clean_titanic.csv
-* README.md
-
-Saziya
-Aspiring Data Scientist
